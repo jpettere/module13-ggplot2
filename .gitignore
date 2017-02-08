@@ -34,3 +34,5 @@ vignettes/*.pdf
 
 # Api keys!
 api-key.R
+
+.DS_Store
